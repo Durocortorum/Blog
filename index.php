@@ -56,5 +56,4 @@ try {
 }
 catch(Exception $e) {
     echo 'Erreur : ' . $e->getMessage();
-    // require('view/frontend/errorView.php');
 }
